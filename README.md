@@ -6,6 +6,10 @@
 
 Real-time eye blink detection and session analytics using OpenCV + dlib facial landmarks.
 
+## Changelog
+
+See [`CHANGELOG.md`](CHANGELOG.md) for version history and release notes.
+
 ## What is improved
 
 - Modular package structure instead of one long script
