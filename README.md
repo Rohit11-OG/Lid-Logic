@@ -1,5 +1,9 @@
 # Lid-Logic
 
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/Rohit11-OG/Lid-Logic/releases/tag/v1.0.0)
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Tests](https://img.shields.io/badge/tests-3%20passing-brightgreen)](https://github.com/Rohit11-OG/Lid-Logic)
+
 Real-time eye blink detection and session analytics using OpenCV + dlib facial landmarks.
 
 ## What is improved
